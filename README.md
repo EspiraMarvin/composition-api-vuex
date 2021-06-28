@@ -1,5 +1,6 @@
 # composition-api-vuex
 
+### state management with composition api (VUE3)
 ## Project setup
 ```
 yarn install
