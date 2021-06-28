@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>Counter works </h1>
+    <h1>Counter works</h1>
     <h2>{{ store.state.counter }}</h2>
   </div>
 </template>

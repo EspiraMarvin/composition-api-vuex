@@ -1,4 +1,4 @@
-# composition-api-vuex
+# composition-api-state-management
 
 ### state management with composition api (VUE3)
 ## Project setup
